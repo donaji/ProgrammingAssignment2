@@ -1,9 +1,9 @@
-## These functions creates a Matrix and calculate and store in the cache its inverse.
+## These functions create a Matrix, calculate and store in the cache its inverse.
+##
 ##
 
 
-
-## The next function is the first part of the assignment and creates a Matrix and get its value.
+## This function is the first part of the assignment and creates a Matrix and get its value.
 
 makeCacheMatrix <- function(x = matrix()) {
       # create a null object
