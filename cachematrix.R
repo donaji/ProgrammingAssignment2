@@ -1,5 +1,7 @@
-## Put comments here that give an overall description of what your
-## functions do
+## These functions creates a Matrix and calculate and store in the cache its inverse.
+##
+
+
 
 ## The next function is the first part of the assignment and creates a Matrix and get its value.
 
